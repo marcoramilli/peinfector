@@ -1,4 +1,4 @@
-# peinfector
+# PEinfector [![Support Marco via Gittip](http://img.shields.io/gittip/marco.svg)](https://www.gittip.com/marco/)
 ==========
 
 Infecting PE Files. This is a different implementation of PE-Infector as I described in 2011.
