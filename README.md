@@ -6,3 +6,7 @@ Infecting PE Files. This is a different implementation of PE-Infector as I descr
 
 ------------
 ![Under Construction](http://best.unina.it/main/sites/default/files/400px-Work_in_Progress_Header.png "DEV")
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/marcoramilli/peinfector/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
